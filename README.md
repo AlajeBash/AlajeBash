@@ -25,3 +25,8 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 [![](https://visitcount.itsvg.in/api?id=AlajeBash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Abba&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
