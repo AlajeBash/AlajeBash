@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for talented people that are interested in programming<br>I'm Currently learning Desktop/Mobile App Development.<br>Ask me about C/C++, C#, Java, JavaScript, HTML & CSS.<br>
+Hi there! My name is Bashir Sani and I am currently a computer engineering student at Cyprus International University. 
+In my time as a student, I have developed a strong foundation in computer science and engineering principles, including programming languages such as Java and C++, computer architecture, and data structures and algorithms.
+Outside of my studies, I am actively involved in a number of extracurricular activities, including the CIU Computer Science Engineering Club. In my free time, I enjoy staying up to date with the latest technology and trends in the field, and I am always looking for opportunities to apply my skills and knowledge in real-world projects and challenges.
+I am passionate about using my skills and expertise to make a positive impact in the world, and I am excited to see where my career in computer engineering will take me. 
+So, I am always eager to learn and grow as a professional, and I am confident that my education and experiences have prepared me to succeed in this dynamic and rapidly-evolving field.
+<br>I'm Looking for talented people that are interested in programming<br>I'm Currently learning Desktop/Mobile App Development.<br>Ask me about C/C++, C#, Java, JavaScript, HTML & CSS.<br>
 
 
 ## 🌐 Socials:
