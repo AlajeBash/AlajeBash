@@ -32,6 +32,6 @@ So, I am always eager to learn and grow as a professional, and I am confident th
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<a href="https://visitcount.itsvg.in">
+<!--a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Abba&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
+</a-->
