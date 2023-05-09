@@ -31,7 +31,10 @@ So, I am always eager to learn and grow as a professional, and I am confident th
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+## Visit My LinkedIn Account
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="alajeebash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cy.linkedin.com/in/alajeebash?trk=profile-badge">Bashir Sani</a></div>
+              
 <!--a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Abba&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a-->
