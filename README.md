@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I'm a computer engineering student at Cyprus Inter
 
 
 - ## 🤖 Extracurricular Activities:
-  - Active member of the CIU Computer Science Engineering Club.
+  - Current President of CIU Computer Science Engineering Club.
   - Contributing to the CIU Robotics Team to build innovative projects.
+  - Captain CIU Fire Fighter Project
   
 - ## 🌟 Passions:
   I enjoy staying updated with the latest tech trends and applying my skills to impactful projects. From mobile apps to smart IoT systems, I aim to create solutions that matter.
